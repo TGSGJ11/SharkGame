@@ -2,5 +2,4 @@ bin/
 cocos2d/
 proj.android/
 proj.ios_mac/
-proj.win32/Debug.win32/
-proj.win32/.vs/
+proj.win32/
